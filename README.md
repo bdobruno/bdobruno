@@ -12,4 +12,16 @@
 
 ## Current Projects
 
-- []()
+- [Omora Labs Docs](https://github.com/bdobruno/omoralabs-docs) - Building blocks for composable, production-grade finance analytics
+- [Trading CLI](https://github.com/bdobruno/trading) - CLI trading tool for Alpaca with automated order entry, risk management, execution logging, and dbt-powered analytics
+- [Trading Analytics](https://github.com/bdobruno/trading-analytics-example) - Trading analytics system with DuckDB/MotherDuck + dbt for calculating risk/reward metrics, win rates, and performance aggregations across paper and live accounts
+- [bdo cli](https://github.com/bdobruno/bdo-cli) - A collection of helpful shell scripts for Git, GitHub, and development workflows.
+- [Augmented Search](https://github.com/bdobruno/augmented-search) - Augmented search system with Claude Code. Answer questions using only local docs, no web search.
+
+## Connect
+
+[![Website](https://img.shields.io/badge/-Website-black?style=flat-square&logo=google-chrome&logoColor=white)](https://bdobruno.com)
+[![Twitter](https://img.shields.io/badge/-Twitter-black?style=flat-square&logo=x&logoColor=white)](https://x.com/bdobruno_)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bdobruno/)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/bdobruno)
+
