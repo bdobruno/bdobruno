@@ -14,17 +14,16 @@
 ![Claude](https://camo.githubusercontent.com/1d5fbf71150d809ed14251f1f14847ecbbe4ad6d8df4ce072df87bbdc06d81d0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d436c617564652d3030303030303f7374796c653d666c61742d737175617265266c6f676f3d616e7468726f706963266c6f676f436f6c6f723d7768697465)
 ![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnometerminal&logoColor=white)
 
-Finance professional turned AI engineer. 13 years across PwC, Reckitt, and VC-backed SaaS (Gainsight, Catawiki) — now building at the intersection of finance, data and AI.
+13 years in FP&A and strategic finance (PwC, Reckitt, Catawiki, Gainsight). I build AI-augmented finance workflows — the tooling that makes FP&A faster, more accurate, and less dependent on spreadsheets.
 
 ## Current Projects
 
 - [Omora Labs Docs](https://github.com/bdobruno/omoralabs-docs) - Building blocks for composable, production-grade finance analytics.
 - [Omora AI](https://app.omora.ai) - Generates financial models through chat, turning natural language prompts into structured financial models in seconds.
-- [Langfuse Integrations](https://langfuse.bdobruno.com) - An interactive app that maps Langfuse's team ownership structure, with LLM chat and Langfuse observability.
-- [bdo cli](https://github.com/bdobruno/bdo-cli) - A collection of helpful shell scripts for Git, GitHub, and development workflows.
-- [Augmented Search](https://github.com/bdobruno/augmented-search) - Augmented search system with Claude Code. Answer questions using only local docs, no web search.
-- [Trading CLI](https://github.com/bdobruno/trading) - CLI trading tool for Alpaca with automated order entry and risk management.
-- [Trading Analytics](https://github.com/bdobruno/trading-analytics) - End-to-end Alpaca trading analytics with logging, a centralized database, and dbt-powered performance reporting.
+- [SaaS Metrics](https://app.hex.tech/019b6514-4a4f-7002-9c8d-dff74ca45f74/app/SaaS-Metrics-by-Omora-Labs-032JPu7hU3PLoO3nj9yvbq/latest?tab=revenue) - Hex analytics asset for MRR, churn, CAC, LTV
+- [Plan vs Actuals](https://app.hex.tech/019b6514-4a4f-7002-9c8d-dff74ca45f74/app/Plan-vs-Actuals-by-Omora-Labs-0328SrWYqP3tnj8DcCZpwm/latest?tab=reports) - Hex asset for budget variance reporting
+- [Weekly Cash Balances](https://app.hex.tech/019b6514-4a4f-7002-9c8d-dff74ca45f74/app/Weekly-Cash-Balances-by-Omora-Labs-0320gxWc1aEDYHlbBK6hyP/latest?tab=reports) - Hex asset for cash flow monitoring
+- [Agentic Board Deck](https://www.omoralabs.com/showcase/agentic-board-deck)
 
 ## Connect
 
