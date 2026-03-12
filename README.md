@@ -18,19 +18,21 @@ Finance professional turned AI engineer. 13 years across PwC, Reckitt, and VC-ba
 
 ## Current Projects
 
+- [Omora AI](https://github.com/bdobruno/omora-ai) - Generates financial models through chat, turning natural language prompts into structured financial models in seconds.
+- [Agentic Board Deck](https://github.com/bdobruno/agentic-board-deck) - Automated board reporting system. No spreadsheets, no manual work.
+- [Omora Labs Website](https://github.com/bdobruno/omoralabs-website) - Frontend for the Omora Labs website. Built to showcase projects and attract consulting clients in finance, FP&A, and AI-powered workflows.
 - [Omora Labs Docs](https://github.com/bdobruno/omoralabs-docs) - Building blocks for composable, production-grade finance analytics.
-- [Omora AI](https://app.omora.ai) - Generates financial models through chat, turning natural language prompts into structured financial models in seconds.
-- [Agentic Board Deck](https://www.omoralabs.com/showcase/agentic-board-deck) - Automated board reporting system. No spreadsheets, no manual work.
 - [Langfuse Integrations](https://github.com/bdobruno/langfuse-ownership) - An interactive app that maps Langfuse's team ownership structure, with LLM chat and Langfuse observability.
-- [bdo cli](https://github.com/bdobruno/bdo-cli) - A collection of helpful shell scripts for Git, GitHub, and development workflows.
-- [Augmented Search](https://github.com/bdobruno/augmented-search) - Augmented search system with Claude Code. Answer questions using only local docs, no web search.
 - [Trading CLI](https://github.com/bdobruno/trading) - CLI trading tool for Alpaca with automated order entry and risk management.
 - [Trading Analytics](https://github.com/bdobruno/trading-analytics) - End-to-end Alpaca trading analytics with logging, a centralized database, and dbt-powered performance reporting.
+- [bdo cli](https://github.com/bdobruno/bdo-cli) - A collection of helpful shell scripts for Git, GitHub, and development workflows.
+- [Augmented Search](https://github.com/bdobruno/augmented-search) - Augmented search system with Claude Code. Answer questions using only local docs, no web search.
+- [SaaS Metrics](https://github.com/omoralabs/saas_metrics) - A production-grade SaaS Metrics analysis blueprint using Omora Labs components: semantic layers, facts and dbt transformations.
+- [Plan vs Actuals](https://github.com/omoralabs/plan-vs-actuals) - A production-grade Plan vs Actuals variance analysis blueprint using Omora Labs components: semantic layers, facts and dbt transformations.
+- [Weekly Cash Balances](https://github.com/omoralabs/weekly-cash-balances) - Weekly cash balance tracker with multi-currency conversion using dbt and DuckDB
 
 ## Connect
 
-[![Website](https://img.shields.io/badge/-Website-black?style=flat-square&logo=google-chrome&logoColor=white)](https://bdobruno.com)
-[![Twitter](https://img.shields.io/badge/-Twitter-black?style=flat-square&logo=x&logoColor=white)](https://x.com/bdobruno_)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bdobruno/)
+[![Website](https://img.shields.io/badge/-Website-black?style=flat-square&logo=google-chrome&logoColor=white)](https://bdobruno.com/engineer)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/bdobruno)
 
