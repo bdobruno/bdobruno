@@ -14,12 +14,12 @@
 ![Claude](https://camo.githubusercontent.com/1d5fbf71150d809ed14251f1f14847ecbbe4ad6d8df4ce072df87bbdc06d81d0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d436c617564652d3030303030303f7374796c653d666c61742d737175617265266c6f676f3d616e7468726f706963266c6f676f436f6c6f723d7768697465)
 ![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnometerminal&logoColor=white)
 
-Finance professional turned AI engineer. 13 years across PwC, Reckitt, and VC-backed SaaS (Gainsight, Catawiki) — now building at the intersection of finance, data and AI.
+An engineer infiltrated in Finance. 13 years at VC-backed SaaS and others. Building at the intersection of finance, data and AI.
 
 ## Current Projects
 
 - [Omora AI](https://github.com/bdobruno/omora-ai) - Generates financial models through chat, turning natural language prompts into structured financial models in seconds.
-- [Agentic Board Deck](https://github.com/bdobruno/agentic-board-deck) - Automated board reporting system. No spreadsheets, no manual work.
+- [Agentic Board Deck](https://github.com/bdobruno/agentic-board-deck) - An AI-powered board deck generator built with Next.js and the OpenAI API.
 - [Omora Labs Website](https://github.com/bdobruno/omoralabs-website) - Frontend for the Omora Labs website. Built to showcase projects and attract consulting clients in finance, FP&A, and AI-powered workflows.
 - [Omora Labs Docs](https://github.com/bdobruno/omoralabs-docs) - Building blocks for composable, production-grade finance analytics.
 - [Langfuse Integrations](https://github.com/bdobruno/langfuse-ownership) - An interactive app that maps Langfuse's team ownership structure, with LLM chat and Langfuse observability.
