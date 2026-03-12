@@ -20,7 +20,7 @@ An engineer who went undercover in Finance. 13 years at VC-backed SaaS and other
 
 - [Omora AI](https://github.com/bdobruno/omora-ai) - Generates financial models through chat, turning natural language prompts into structured financial models in seconds.
 - [Agentic Board Deck](https://github.com/bdobruno/agentic-board-deck) - An AI-powered board deck generator built with Next.js and the OpenAI API.
-- [Omora Labs Website](https://github.com/bdobruno/omoralabs-website) - Frontend for the Omora Labs website. Built to showcase projects and attract consulting clients in finance, FP&A, and AI-powered workflows.
+- [Omora Labs Website](https://github.com/bdobruno/omoralabs-website) - Frontend for the Omora Labs website. Built to showcase projects and attract consulting clients.
 - [Omora Labs Docs](https://github.com/bdobruno/omoralabs-docs) - Building blocks for composable, production-grade finance analytics.
 - [Langfuse Integrations](https://github.com/bdobruno/langfuse-ownership) - An interactive app that maps Langfuse's team ownership structure, with LLM chat and Langfuse observability.
 - [Trading CLI](https://github.com/bdobruno/trading) - CLI trading tool for Alpaca with automated order entry and risk management.
