@@ -24,6 +24,7 @@
 
 ## Connect
 
-[![Website](https://img.shields.io/badge/-Website-black?style=flat-square&logo=google-chrome&logoColor=white)](https://bdobruno.com/engineer)
+[![Website](https://img.shields.io/badge/-Website-black?style=flat-square&logo=google-chrome&logoColor=white)](https://bdobruno.com/)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-grey?style=flat)](https://www.linkedin.com/in/bdobruno)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/bdobruno)
 
