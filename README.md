@@ -16,13 +16,11 @@ An engineer who went undercover in Finance. 13 years at VC-backed SaaS and other
 
 ## Current Projects
 
-- [Omora AI](https://github.com/bdobruno/omora-ai) - Generates financial models through chat, turning natural language prompts into structured financial models in seconds.
-- [Agentic Board Deck](https://github.com/bdobruno/agentic-board-deck) - An AI-powered board deck generator built with Next.js and the OpenAI API.
 - [Omora Labs Docs](https://github.com/bdobruno/omoralabs-docs) - Building blocks for composable, production-grade finance analytics.
-- [bdo cli](https://github.com/bdobruno/bdo-cli) - A collection of helpful shell scripts for Git, GitHub, and development workflows.
 - [SaaS Metrics](https://github.com/omoralabs/saas_metrics) - A production-grade SaaS Metrics analysis blueprint using Omora Labs components: semantic layers, facts and dbt transformations.
 - [Plan vs Actuals](https://github.com/omoralabs/plan-vs-actuals) - A production-grade Plan vs Actuals variance analysis blueprint using Omora Labs components: semantic layers, facts and dbt transformations.
 - [Weekly Cash Balances](https://github.com/omoralabs/weekly-cash-balances) - Weekly cash balance tracker with multi-currency conversion using dbt and DuckDB
+- [bdo cli](https://github.com/bdobruno/bdo-cli) - A collection of helpful shell scripts for Git, GitHub, and development workflows.
 
 ## Connect
 
