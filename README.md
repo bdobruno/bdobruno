@@ -12,7 +12,13 @@
 ![JavaScript](https://camo.githubusercontent.com/4f9db4dfc0075cf14a709e4c31290074bba05ec044aa6a19cf17deef09ed49df/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d4637444631453f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b)
 ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat&logo=zod&logoColor=white)
 
-13 years at VC-backed SaaS and others. Building at the intersection of finance, data and AI.
+I'm building next-gen Finance as the Director, Finance & Data Analytics at Planhat, a Series B customer success platform based in Stockholm. I'm the founder of Omora Labs, a finance engineering consultancy boutique.
+
+I scaled finance departments at VC-backed SaaS companies like Catawiki and Gainsight, after starting my career at PwC.
+
+Along the way, I felt the itch: how do you make Finance move faster without breaking it? The answer: combine it with the principles of engineering, data, and AI.
+
+Currently based in Stockholm, connect with me via the socials if you want to know more about Finance Engineering.
 
 ## Current Projects
 
